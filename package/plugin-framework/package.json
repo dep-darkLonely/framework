@@ -1,0 +1,24 @@
+{
+  "name": "@umijs/plugin-framework",
+  "main": "lib/index.js",
+  "version": "1.0.0",
+  "description": "@umijs/plugin-framework",
+  "authors": {
+    "name": "xxxx",
+    "email": "xxx@xxx.com"
+  },
+  "devDependencies": {
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "files": [
+    "lib",
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+  }
+}
